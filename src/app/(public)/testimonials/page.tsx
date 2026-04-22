@@ -8,7 +8,7 @@ export default function TestimonialsPage() {
       id: 1,
       name: "S. M.",
       city: "London",
-      date: "August 2026",
+      date: "August 2018",
       avatar: "SM",
       text: "The remote coaching for my theory test was phenomenal. I was struggling with hazard perception, but the techniques taught made it so easy. Passed with flying colours!",
       video: false
@@ -17,7 +17,7 @@ export default function TestimonialsPage() {
       id: 2,
       name: "John D.",
       city: "Manchester",
-      date: "July 2026",
+      date: "July 2018",
       avatar: "JD",
       text: "I booked the full licence package. They helped me apply for my provisional, coached me through the theory, and gave me confidence for the practical test. Outstanding service.",
       video: true
@@ -26,7 +26,7 @@ export default function TestimonialsPage() {
       id: 3,
       name: "Emily R.",
       city: "Birmingham",
-      date: "June 2026",
+      date: "June 2018",
       avatar: "ER",
       text: "I was extremely nervous about the practical test. The mock examiner reviews and fault analysis completely changed my mindset. I passed on my first attempt!",
       video: false
@@ -35,7 +35,7 @@ export default function TestimonialsPage() {
       id: 4,
       name: "Ali K.",
       city: "Edinburgh",
-      date: "May 2026",
+      date: "May 2018",
       avatar: "AK",
       text: "Highly professional and genuinely compliant with DVSA standards. They know the exact requirements for passing the UK driving tests. Money well spent.",
       video: false

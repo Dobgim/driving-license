@@ -18,7 +18,7 @@ export default function AdminLogin() {
     const code = formData.get("accessCode");
 
     // Check the code
-    if (code === "ADMIN2026") {
+    if (code === "ADMIN2018") {
       // Simulate login delay
       setTimeout(() => {
         // Set a simple client-side auth flag

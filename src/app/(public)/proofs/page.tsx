@@ -18,7 +18,7 @@ const dummyProofs: Proof[] = [
     id: 1,
     type: "Theory Test",
     region: "London",
-    date: "May 2026",
+    date: "May 2018",
     description: "Passed UK theory test on the first attempt.",
     mediaType: "image",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"
@@ -27,7 +27,7 @@ const dummyProofs: Proof[] = [
     id: 2,
     type: "Practical Test",
     region: "Manchester",
-    date: "April 2026",
+    date: "April 2018",
     description: "Successfully passed practical with zero faults.",
     mediaType: "video",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"
@@ -36,7 +36,7 @@ const dummyProofs: Proof[] = [
     id: 3,
     type: "Full Licence",
     region: "Birmingham",
-    date: "March 2026",
+    date: "March 2018",
     description: "Received full pink licence after 3 months of coaching.",
     mediaType: "image",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"
@@ -45,7 +45,7 @@ const dummyProofs: Proof[] = [
     id: 4,
     type: "Theory Test",
     region: "Leeds",
-    date: "March 2026",
+    date: "March 2018",
     description: "Perfect score on hazard perception.",
     mediaType: "image",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"
@@ -54,7 +54,7 @@ const dummyProofs: Proof[] = [
     id: 5,
     type: "Practical Test",
     region: "Bristol",
-    date: "February 2026",
+    date: "February 2018",
     description: "Passed practical in an automatic car.",
     mediaType: "video",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"
@@ -63,7 +63,7 @@ const dummyProofs: Proof[] = [
     id: 6,
     type: "Full Licence",
     region: "Newcastle",
-    date: "January 2026",
+    date: "January 2018",
     description: "Upgraded from international to full UK licence.",
     mediaType: "image",
     thumbnailUrl: "https://placehold.co/400x300/e0e0e0/333333?text=Proof+Image"

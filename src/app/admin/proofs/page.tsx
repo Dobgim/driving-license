@@ -53,7 +53,7 @@ export default function AdminProofsList() {
                     <div className="font-medium text-dark">UK Theory Test</div>
                     <div className="text-xs text-dark/60">London</div>
                   </td>
-                  <td className="px-6 py-4 text-dark/80">May {10+i}, 2026</td>
+                  <td className="px-6 py-4 text-dark/80">May {10+i}, 2018</td>
                   <td className="px-6 py-4">
                     <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
                       Published
