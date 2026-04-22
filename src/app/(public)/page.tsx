@@ -23,6 +23,39 @@ export default function Home() {
         </div>
       </section>
 
+      {/* About Us Teaser Section */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full mt-4">
+        <div className="bg-primary/5 rounded-2xl p-8 md:p-12 flex flex-col md:flex-row items-center gap-8 md:gap-12 border border-primary/10">
+          <div className="md:w-1/2 flex justify-center">
+            {/* Simple decorative graphic or placeholder for a brand image */}
+            <div className="w-full max-w-sm aspect-video bg-white rounded-xl shadow-md border border-gray-100 flex items-center justify-center p-6 relative overflow-hidden">
+               <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-accent/10"></div>
+               <div className="text-center relative z-10">
+                 <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4 shadow-lg text-white font-bold text-2xl">
+                   UK
+                 </div>
+                 <p className="font-bold text-primary text-xl">LicenceHub</p>
+               </div>
+            </div>
+          </div>
+          <div className="md:w-1/2 space-y-5">
+            <h2 className="text-3xl font-bold text-primary">About Us</h2>
+            <p className="text-dark/80 text-lg leading-relaxed">
+              We are a dedicated team of UK driving experts committed to helping you navigate the complex process of obtaining your full driving licence.
+            </p>
+            <p className="text-dark/70">
+              From mastering the DVSA theory test to conquering the practical driving exam, our tailored remote coaching and transparent guidance have helped people across the entire United Kingdom get behind the wheel safely and legitimately.
+            </p>
+            <div className="pt-2">
+              <Link href="/about" className="text-primary font-bold hover:text-accent transition-colors flex items-center group">
+                Discover our mission 
+                <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 3-Cards Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div className="text-center mb-12">
